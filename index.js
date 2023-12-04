@@ -1,5 +1,5 @@
 const axios = require("axios");
-//sua chave aqui
+
 const appid = "7b2cd3cc5568e58b3ddb64196db91746";
 //cidade desejada
 const q = "Itu";
